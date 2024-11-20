@@ -19,6 +19,9 @@ public class Memory {
 
     @Override
     public String toString() {
-        return "Memory{" + "used=" + used + ", max=" + max + '}';
+        return "Memory{" +
+                "used=" + used +
+                ", max=" + max +
+                '}';
     }
 }
